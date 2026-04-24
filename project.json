@@ -1,0 +1,24 @@
+{
+  "overview": "A modern, multi-page personal portfolio website for Doniyor Kamolov — a 12-year-old developer from Uzbekistan. Features world-class neon effects, glassmorphism cards, 4 playable mini-games, dark/light theme, and all content in Uzbek.",
+  "features": [
+    "7-page portfolio in Uzbek language",
+    "World-class neon glow effects and glassmorphism",
+    "4 playable mini-games in modals (Snake, Memory, Catch Ball, Whack-a-Mole)",
+    "Profile image upload saved to localStorage",
+    "Dark/light theme toggle",
+    "Contact form with localStorage persistence",
+    "Coding journey page with syntax-highlighted code",
+    "Responsive design for all devices"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "uzbek",
+    "neon",
+    "games",
+    "dark-theme",
+    "glassmorphism",
+    "frontend"
+  ],
+  "last_updated": "2026-04-24T13:41:30.886Z"
+}
